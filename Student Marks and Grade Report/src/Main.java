@@ -6,7 +6,7 @@ public class Main {
         int Subject1marks = 90;
         int Subject2marks = 66;
         int Subject3marks = 82;
-        int Subject4marks = 54;
+        int Subject4marks = 32;
         int Subject5marks = 71;
 
         int TotalMarks = 0;
