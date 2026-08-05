@@ -16,7 +16,7 @@ In this program, I have to evaluate the marks of a student in five subjects. I n
 
 HARD-CODED VALUES SELECTED
 
-I have hard-coded the student name as Nandini and the five subject marks as 90, 66, 82, 32, and 71.
+I have hard-coded the student name as Nandini. I used two different sets of subject marks to test the program. For the FAIL case, I selected the marks 90, 66, 82, 32, and 71, where one subject mark is below the passing mark of 35. For the PASS case, I selected the marks 90, 66, 82, 80, and 71, where all five subject marks are above the passing mark.
 
 VARIABLES AND DATA TYPES PLANNED
 
