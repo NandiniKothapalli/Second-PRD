@@ -1,4 +1,4 @@
-Student Name: Nandini
+Student Name: K. Nandini
 
 Email: nandinikothapalli2@gmail.com
 
