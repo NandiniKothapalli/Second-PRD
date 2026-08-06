@@ -73,7 +73,7 @@ public class Main {
         System.out.println("Overall Result: " + result);
         System.out.println("Grade: " + grade);
         System.out.println("Next-Level Eligibility: " + eligibility);
-        if (result.equals("PASS")) {
+        if (result == "PASS") {
             System.out.println("Final Message: Congratulations! You have passed.");
         } else {
             System.out.println("Final Message: Better luck next time.");
