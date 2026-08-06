@@ -59,7 +59,7 @@ public class Main {
         } else {
             grade = "Needs Improvement";
         }
-        String eligibility = (result.equals("PASS")) ? "Eligible" : "Not Eligible";
+        String eligibility = (result == "PASS") ? "Eligible" : "Not Eligible";
         System.out.println("STUDENT MARKS REPORT");
         System.out.println();
         System.out.println("Student Name: " + name);
